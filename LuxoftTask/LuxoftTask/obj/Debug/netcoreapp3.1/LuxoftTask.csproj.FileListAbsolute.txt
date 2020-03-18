@@ -1,0 +1,13 @@
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.exe
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.deps.json
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.runtimeconfig.json
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.runtimeconfig.dev.json
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.dll
+E:\Project\LuxoftTask\LuxoftTask\bin\Debug\netcoreapp3.1\LuxoftTask.pdb
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.csprojAssemblyReference.cache
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.csproj.CoreCompileInputs.cache
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.AssemblyInfoInputs.cache
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.AssemblyInfo.cs
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.dll
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.pdb
+E:\Project\LuxoftTask\LuxoftTask\obj\Debug\netcoreapp3.1\LuxoftTask.genruntimeconfig.cache

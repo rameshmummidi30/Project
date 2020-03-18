@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LuxoftTask/1.0.0": {
+        "runtime": {
+          "LuxoftTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuxoftTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
